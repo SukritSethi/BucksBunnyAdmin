@@ -170,7 +170,11 @@ const App = () => {
             </div>
           </div>
         )}
+        {page === 2 && <div className="app__analytics2">
+         Delete this item from the database
+        </div>}
       </div>
+      
     </div>
   );
 };

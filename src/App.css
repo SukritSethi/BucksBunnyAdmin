@@ -93,7 +93,7 @@ Input{
 
 .app__addItems__heading{
   width: 90%;
-  
+  text-align: center;
   font-size: xx-large;
 }
 
@@ -204,4 +204,19 @@ Input{
   font-size: xx-large;
   margin: 1rem 0;
   height: 3rem;
+}
+
+.app__analytics2{
+  text-align: center;
+  font-size: xx-large;
+}
+
+.app__analytics2:hover{
+  text-align: center;
+  font-size: xx-large;
+  text-decoration: underline;
+}
+
+.app__addItems__heading{
+  align-items: center;
 }
